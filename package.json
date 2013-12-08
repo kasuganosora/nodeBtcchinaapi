@@ -17,8 +17,8 @@
   "keywords": [
     "btcchina"
   ],
-  "author": "sionZeng",
-  "license": "GPL",
+  "author": "SionZeng",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/kasuganosora/nodeBtcchinaapi/issues"
   }
