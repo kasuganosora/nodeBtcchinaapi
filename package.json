@@ -1,0 +1,19 @@
+{
+  "name": "btcc",
+  "version": "0.0.1",
+  "description": "比特币中国Nodejs API",
+  "main": "btcc.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grncdr/js-doto.git"
+  },
+  "keywords": [
+    "btcc",
+    "api"
+  ],
+
+  "author": "Sion Zeng <kennyjks@gmail.com>",
+  "dependencies":{
+    "request": "x.x.x"
+  }
+}
